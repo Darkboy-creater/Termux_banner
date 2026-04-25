@@ -21,9 +21,9 @@ Termux banner
 
     cd Termux_banner
 
-    touch  ~/banner.py
+    
 
-    mv Exploit.py ~/banner.py
+    python  Exploit.py 
 
 
     thhen exit 
